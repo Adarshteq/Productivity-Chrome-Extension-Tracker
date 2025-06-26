@@ -1,17 +1,5 @@
 # **Productivity Chrome Extension Tracker**  
 
-**Company:** Codtech IT Solutions  
-
-**Name:** Addanki Adarsh  
-
-**Intern ID:** CT06DL422  
-
-**Domain:** React.js Web Development  
-
-**Duration:** 6 Weeks  
-
-**Mentor:** Neela Santhosh Kumar  
-
 ## **📌 Project Description**  
 
 The **Productivity Chrome Extension Tracker** is a powerful Chrome extension designed to help users track and enhance their productivity by monitoring their browsing activities.
