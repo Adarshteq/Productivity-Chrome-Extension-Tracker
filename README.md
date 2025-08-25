@@ -96,12 +96,6 @@ This extension helps users analyze their browsing habits, categorize websites as
 
 This project is licensed under the **MIT License**.  
 
-## **🙏 Acknowledgments**  
-
-- **Mentor:** Neela Santhosh Kumar (Codtech IT Solutions)  
-
-- **Team:** Codtech IT Solutions Internship Program  
-
 This **Productivity Chrome Extension Tracker** aims to help users optimize their online time and reduce distractions. 
 
 
